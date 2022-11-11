@@ -149,7 +149,7 @@ body, html {
 	bottom: -85px;
 	width: 100%;
 	font-family: 'Poppins', sans-serif;
-	font-size: 32px;
+	font-size: 1em;
 	color: rgba(255, 255, 255, .5);
 	text-shadow: rgb(58 78 94) 0 0 10px;
 }
