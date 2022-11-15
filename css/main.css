@@ -243,25 +243,7 @@ transform: translateX(-50%);
 	display: none;
 }
 
-button{
-	font-family: 'Poppins', sans-serif;
-	position: relative;
-	border-radius: 20px;
-	font-size: 1.1em;
-	top:50%;
-	background-color: #000;
-	color: white;
-	padding-left: 10px;
-	padding-right: 10px;
-	justify-content: center;
-	z-index: 1;
-	opacity: 0;
-}
-button:hover{
-	color: black;
-	background-color: white;
-	opacity: 0;
-}
+
 
 /* ANIMATIONS */
 
