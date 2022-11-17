@@ -1,7 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600;700&display=swap');
+
 .footer- {
   padding: 0;
   margin: 0;
   bottom: 0%;
+  font-family: 'Poppins';
   
 }
 .footer- p {
